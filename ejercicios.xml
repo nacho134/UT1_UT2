@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+    <ejercicios>
+        <ejercicio>
+            <nombre>DeadLift</nombre>
+            <reps>23.0</reps>
+            <peso>50</peso>
+        </ejercicio>
+    </ejercicios>
+</xml>

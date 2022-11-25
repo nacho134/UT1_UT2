@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ejercicios>
+    <ejercicio>
+        <reps>4</reps>
+        <peso>5</peso>
+        <nombre>nacho</nombre>
+    </ejercicio>
+    <ejercicio>
+        <reps>2</reps>
+        <peso>5</peso>
+        <nombre>sport</nombre>
+    </ejercicio>
+</ejercicios>
